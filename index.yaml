@@ -1,0 +1,36 @@
+apiVersion: v1
+entries:
+  msmetrica:
+  - apiVersion: v2
+    appVersion: "2.0"
+    created: "2021-12-03T12:28:38.8742186+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 96f8acea46996ff4ac59033f81d6053eb0a0c59ea266aae73645115f7e766698
+    name: msmetrica
+    type: application
+    urls:
+    - https://github.com/piccardRoom/helm-chart.git/msmetrica-0.1.0.tgz
+    version: 0.1.0
+  mspolicy:
+  - apiVersion: v2
+    appVersion: "2.0"
+    created: "2021-12-03T12:28:38.8747875+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 98fd0d18caad858745a79ecd1ad3a6191aaf7b114610050f11bf75e9eebfe900
+    name: mspolicy
+    type: application
+    urls:
+    - https://github.com/piccardRoom/helm-chart.git/mspolicy-0.1.0.tgz
+    version: 0.1.0
+  servicea:
+  - apiVersion: v2
+    appVersion: "2.0"
+    created: "2021-12-03T12:28:38.8753029+01:00"
+    description: A Helm chart for Kubernetes
+    digest: cd92da2e181c270b06c5603f42da16a1ea1a2927cb1aaea2e5b90462c0664843
+    name: servicea
+    type: application
+    urls:
+    - https://github.com/piccardRoom/helm-chart.git/servicea-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-12-03T12:28:38.8717803+01:00"
